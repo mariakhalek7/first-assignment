@@ -85,6 +85,41 @@
 .my-plans{
     padding: 130px 150px;
 }
+.btn-2{
+    border-radius: 5px;
+    background-color: #f3edea;
+    color: rgba(255, 68, 0, 0.795);
+    font-weight: 700;
+    font-size: 18px;
+    border: 0;
+    padding: 17px 30px;
+    height: 60px;
+    margin-right: 800px;
+    margin-top: 20px;
+
+
+
+
+}
+.positive{
+    background-image: url('images/watch.png'), url('/images/gradient2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 120px 50px;
+    text-align: center;
+    
+    
+
+    
+    
+    
+}
+.and{
+    margin-right: 800px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
    
 
 
