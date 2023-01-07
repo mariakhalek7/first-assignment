@@ -7,15 +7,26 @@
 .head{
     background-image: url('/images/banner/banner2.png');
     background-repeat: no-repeat;
-    font-size: 22px;
-    color: black;
-    padding: 120px 50px;
-    text-align: end;
+
     background-position: center;
+    padding: 100px 80px;
+
+    text-align: center;
+    overflow: hidden;
     
+  
 
 
-
+}
+.banner{
+    margin-left: 330px;
+    font-weight: bolder;
+    font-size: 30px;
+    
+    
+}
+.head h1{
+    font-size: 700px;
 }
 
 
@@ -94,7 +105,7 @@
     border: 0;
     padding: 17px 30px;
     height: 60px;
-    margin-right: 800px;
+    margin-right: 330px;
     margin-top: 20px;
 
 
@@ -104,8 +115,10 @@
 .positive{
     background-image:  url('/images/gradient2.png');
     background-repeat: no-repeat;
+
     background-position: center;
-    padding: 120px 50px;
+    padding: 180px 80px;
+    
     text-align: center;
     
     
@@ -115,10 +128,10 @@
     
 }
 .and{
-    margin-right: 800px;
+    margin-right: 330px;
     font-weight: bolder;
     font-size: 30px;
-    gap: 100%;
+    
 }
 /* about footer */
 .footer{
@@ -165,11 +178,18 @@ input{
 }
 .phone{
     margin-bottom: 20px;
-}
-.
+/* } background-repeat: no-repeat;
+    font-size: 22px;
+    color: black;
+    padding: 120px 50px;
+    text-align: end;
+    background-position: center; */
 
 
 }
+/*    <h1><p class="banner">All Thinks Are
+            <p class="banner">Possible If You </p>
+             <p class="banner">Believe</p></h1> */
 
    
 
