@@ -3,16 +3,15 @@
     font-family: 'Open Sans', sans-serif;
     
 }
+/*about header */
 .head{
     background-image: url('/images/banner/banner2.png');
     background-repeat: no-repeat;
     font-size: 22px;
-    
-    background-position: center;
-    background-size: cover;
-    color: white;
+    color: black;
     padding: 120px 50px;
     text-align: end;
+    background-position: center;
     
 
 
@@ -31,5 +30,61 @@
     padding: 17px 30px;
     height: 60px;
 }
+/* about sections */
+.sections{
+   
+    margin-bottom:50px ;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center; 
+    margin: 50px;
+
+}
+.container{
+    display: flex;
+}
+.two ul{
+    list-style-type: circle;
+    text-align: left;
+    font-size: 30px;
+    color:  rgb(90, 80, 80);
+}
+.about-title{
+    font-size: 700;
+    font-weight: bolder;
+
+
+}
+.about-description{
+    font-size: 500;
+    color: rgb(90, 80, 80);
+}
+.plan-title{
+    margin-bottom:50px ;
+    font-weight: 1000;
+    font-size: 35px;
+    text-align: center;
+  
+}
+.plan-container{
+    display: flex;
+    justify-content: space-around;
+    
+    
+
+}
+.skill-title{
+    margin-bottom:20px ;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+
+
+
+}
+.my-plans{
+    padding: 130px 150px;
+}
+   
 
 
